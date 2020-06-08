@@ -229,4 +229,16 @@ header .btn-get-started:hover {
   background-color: #ffaa69;
   color: #fff;
 }
+
+.section-footer a {
+  color: #071c4d;
+}
+
+.section-footer-copyright p {
+  font-family: Assistant;
+  font-weight: lighter;
+  font-size: 18px;
+  text-align: center;
+  color: #6e6e6e;
+}
 /*# sourceMappingURL=main.css.map */
